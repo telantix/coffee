@@ -1,14 +1,14 @@
 {
-	"name": "Sample Theme",
-	"id": "sample-theme",
-	"author": "A cool human",
+	"name": "Coffee",
+	"id": "theme-coffee",
+	"author": "telantix",
 	"version": "1.0.0",
-	"description": "Sample theme for Graviton Editor.",
+	"description": "Coffee theme is bright, minimal and has shades of coffee. Guaranteed to make you active :)",
 	"textTheme":"arctic",
 	"type":"theme",
 	"colorsScheme": {
 		"terminal": {
-			"Background": "white",
+			"Background": "rgb(72, 48, 3)",
 			"Foreground": "black",
 			"Selection": "rgb(180,180,180,0.6)",
 			"Cursor": "black",
